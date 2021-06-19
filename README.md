@@ -1,7 +1,7 @@
 # average-initensity-of-an-image
 To calculate the mean intensity of all the pixels of a given image.
 
-# problem statement
+# Problem statement
 Write a program in C++ to calculate the average intensity of the image. (Do mention if any optimization is possible to reduce complexity but still can give approximate results)
 
         - The program calculates a straight forward average of all the pixel values.

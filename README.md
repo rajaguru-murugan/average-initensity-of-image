@@ -1,4 +1,4 @@
-# average-initensity-of-image
+# average-initensity-of-an-image
 To calculate the mean intensity of all the pixels of a given image.
 
 Write a program in C++ to calculate the average intensity of the image. (Do mention if any optimization is possible to reduce complexity but still can give approximate results)
@@ -32,6 +32,7 @@ Change the last parameter to 1 for optimization
 
         ./avg_intensity ../data/img_3.jpg 1
 
-Development environment:======
+Development environment:
+=======================
 1. Ubuntu/Linux OS
 1. Opencv for C++ --version=4.4

@@ -11,7 +11,7 @@ Write a program in C++ to calculate the average intensity of the image. (Do ment
 - The images are resized to a constant size to have a constant compuational effort and time.
 - Also the calculation is repeated for 100 cycles to average the run time.
 - Inputs:
-                > argument 1: path to image file
+  - argument 1: path to image file
                 > argument 2: To enable or disable optimization
 
 # Details on how to use the programs

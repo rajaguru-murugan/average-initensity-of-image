@@ -32,6 +32,6 @@ Change the last parameter to 1 for optimization
 
         ./avg_intensity ../data/img_3.jpg 1
 
-Development environment:
+# Development environment:
 1. Ubuntu/Linux OS
 1. Opencv for C++ --version=4.4

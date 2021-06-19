@@ -23,9 +23,9 @@ To Compile:
 To execute:
 ==========
         cd build
-# Runs with a default image included in data/
+        # Runs with a default image included in data/
         ./avg_intensity ../data/img_3.jpg 0
-# Change the last parameter to 1 for optimization
+        # Change the last parameter to 1 for optimization
         ./avg_intensity ../data/img_3.jpg 1
 
 Development environment:

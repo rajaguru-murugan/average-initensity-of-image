@@ -4,9 +4,9 @@ To calculate the mean intensity of all the pixels of a given image.
 # Problem statement
 Write a program in C++ to calculate the average intensity of the image. (Do mention if any optimization is possible to reduce complexity but still can give approximate results)
 
-1. The program calculates a straight forward average of all the pixel values.
-2. It is slower to access all the pixel, especially if the images are large.
-3. Since most of the real world images have a spatial connection, any color or a bright spot we see is a group of similar pixels.
+- The program calculates a straight forward average of all the pixel values.
+- It is slower to access all the pixel, especially if the images are large.
+- Since most of the real world images have a spatial connection, any color or a bright spot we see is a group of similar pixels.
         - Thus by resizing the image to a lower size drastically reduces the computational cost!
         - The images are resized to a constant size to have a constant compuational effort and time.
         - Also the calculation is repeated for 100 cycles to average the run time.
